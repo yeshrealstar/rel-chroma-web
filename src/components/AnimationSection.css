@@ -1,0 +1,29 @@
+.animation-section {
+    background-color: #fff;
+    padding: 4rem;
+  }
+  
+  .animation-container {
+    margin-top: 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .animation-box {
+    display: flex;
+    align-items: center;
+  }
+  
+  .db-box, .vector-box, .relation-box {
+    background-color: #ff6600;
+    color: white;
+    padding: 1rem;
+    border-radius: 5px;
+    margin: 0 1rem;
+  }
+  
+  .arrow {
+    font-size: 2rem;
+  }
+  
